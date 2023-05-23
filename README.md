@@ -1,2 +1,2 @@
 # CMC-Unicode-s2023
-Containing unicode based software using java for language purposes. 
+Containing unicode based software using python for language purposes. 
