@@ -1,8 +1,11 @@
 # CMC-Unicode-s2023
 Containing unicode based software using python for language purposes. 
 Sources: KPS9566 encoding wikapedia page: https://en.wikipedia.org/wiki/KPS_9566#:~:text=The%20syllables%20for%20Kim%20and,%2D78%20to%2004%2D80.
+        
          Source for encoding table : https://unicode.org/Public/MAPPINGS/VENDORS/MISC/KPS9566.TXT
+         
          Redstar OS : https://archiveos.org/redstar/
+         
          Virtual box: https://www.virtualbox.org/
          
          
